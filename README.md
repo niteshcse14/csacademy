@@ -38,11 +38,10 @@ A code for it using pure recursion:
             return 1;
         return fib(n - 1) + fib(n - 2);
     }
-...
+```
 [click for full code link]()
 
 Using Dynamic Programming approach with memoization:
-
 ```cpp
     void fib () {
         fib_result[0] = 1;
