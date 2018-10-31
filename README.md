@@ -2,7 +2,7 @@
 
 1.  [Introduction]()
 2.  [Recursion and Dynamic Programming](https://www.quora.com/What-is-the-difference-between-dynamic-programming-and-recursion)
-3.  [Some examples with solution]
+3.  [Some examples with solution]()
 
 
 
@@ -32,27 +32,23 @@ So, the first few numbers in this series will be: 1, 1, 2, 3, 5, 8, 13, 21... an
 
 A code for it using pure recursion:
 
-```
+```cpp
     int fib (int n) {
         if (n < 2)
             return 1;
         return fib(n - 1) + fib(n - 2);
     }
-
+...
 [click for full code link]()
-
-```
 
 Using Dynamic Programming approach with memoization:
 
-```
+```cpp
     void fib () {
         fib_result[0] = 1;
         fib_result[1] = 1;
         for (int i = 2; i < n; ++i)
            fib_result[i] = fib_result[i - 1] + fib_result[i - 2];
     }
-
-[click for full code link]()
-
 ```
+[click for full code link]()
