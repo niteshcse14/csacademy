@@ -53,13 +53,6 @@ Using Dynamic Programming approach with memoization:
 [click for full code link]()
 
 <div class="show"><button>Show</button>
-    ```cpp
-    int fib (int n) {
-        if (n < 2)
-            return 1;
-        return fib(n - 1) + fib(n - 2);
-    }
-    ```
 </div>
 <div class="hidden"><button>Hide</button></div>
 .show {
