@@ -57,9 +57,13 @@ Using Dynamic Programming approach with memoization:
     0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
 
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
-<img src="http://blog.innovsystems.com/sites/default/files/styles/blog_poster/public/post_image/fibonacci%20series.gif?itok=Z5C0WmIP"
+<img id="imageF" src="http://blog.innovsystems.com/sites/default/files/styles/blog_poster/public/post_image/fibonacci%20series.gif?itok=Z5C0WmIP"
      style="float: left; margin-right: 10px, disabled: true" />
-
+```$('#imageF').click(function(e) {
+    e.preventDefault();
+    //do other stuff when a click happens
+});
+```
 Related Problems:
 [Fun With Fibonacci](https://www.devskill.com/CodingProblems/ViewProblem/389)
 [DZY Loves Fibonacci Numbers](http://codeforces.com/problemset/problem/446/C)
