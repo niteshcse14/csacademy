@@ -111,7 +111,7 @@ Using Dynamic Programming approach with memoization:
     0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
 
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
-<img src="https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fblog.innovsystems.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fblog_poster%2Fpublic%2Fpost_image%2Ffibonacci%2520series.gif%3Fitok%3DZ5C0WmIP&imgrefurl=http%3A%2F%2Fblog.innovsystems.com%2Fphp%2Ffibonacci-series-program-php&docid=LzCcil6j9XIZaM&tbnid=zTDMrLthIRma5M%3A&vet=12ahUKEwjz2e717rPeAhUNbisKHRyoCyk4yAEQMyhGMEZ6BAgBEEc..i&w=600&h=250&bih=620&biw=1366&q=fibonacci%20series&ved=2ahUKEwjz2e717rPeAhUNbisKHRyoCyk4yAEQMyhGMEZ6BAgBEEc&iact=mrc&uact=8"
+<img src="http://blog.innovsystems.com/sites/default/files/styles/blog_poster/public/post_image/fibonacci%20series.gif?itok=Z5C0WmIP"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
