@@ -60,12 +60,22 @@ In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the re
 <img id="imageF" src="http://blog.innovsystems.com/sites/default/files/styles/blog_poster/public/post_image/fibonacci%20series.gif?itok=Z5C0WmIP"
      style="float: left; margin-right: 10px, height: 100px,disabled: true" />
 
-##  Related Problems:
-    [Fun With Fibonacci](https://www.devskill.com/CodingProblems/ViewProblem/389)
-    [DZY Loves Fibonacci Numbers](http://codeforces.com/problemset/problem/446/C)
-    [Weasel does Xor on Tree](https://www.codechef.com/SEPT17/problems/WEASELTX)
-    [Longest Common Subsequence](https://www.codechef.com/problems/TLCS)
-    [Longest Increasing Subsequence](https://codeforces.com/problemset/problem/568/E)
-    [LCIS](https://codeforces.com/problemset/problem/10/D)
-    [LCS Again](https://codeforces.com/problemset/problem/578/D)
-    [Gargari and Permutations](https://codeforces.com/problemset/problem/463/D)
+## Related Problems:
+    [Fun With Fibonacci, devskill](https://www.devskill.com/CodingProblems/ViewProblem/389)
+    [DZY Loves Fibonacci Numbers, codeforces, codeforces](http://codeforces.com/problemset/problem/446/C)
+    [Weasel does Xor on Tree, codeforces](https://www.C.com/SEPT17/problems/WEASELTX)
+    [Longest Common Subsequence, codechef](https://www.codechef.com/problems/TLCS)
+    [Longest Increasing Subsequence, codeforces](https://codeforces.com/problemset/problem/568/E)
+    [LCIS, codeforces](https://codeforces.com/problemset/problem/10/D)
+    [LCS Again, codeforces](https://codeforces.com/problemset/problem/578/D)
+    [Gargari and Permutations, codeforces](https://codeforces.com/problemset/problem/463/D)
+    [Beautiful Sequence, hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/beautiful-sequence/)
+    [CODEM2 - Problem2, spoj](https://www.spoj.com/problems/BAT2)
+    [CODEM3 - Problem3, spoj](https://www.spoj.com/problems/BAT3)
+    [CODEM4 - Problem4, spoj](https://www.spoj.com/problems/CODEM4/)
+    [CODEM5 - Problem5, spoj](https://www.spoj.com/problems/CODEM5/)
+    [BAT3 - BATMAN3, spoj](https://www.spoj.com/problems/BAT3/)
+    [BAT4 - BATMAN4, spoj](https://www.spoj.com/problems/BAT4/)
+    [AEROLITE - The Secret of an Aerolite, spoj](https://www.spoj.com/problems/AEROLITE/)
+    [AIRLINES - Jumbo Airlines, spoj](https://www.spoj.com/problems/AIRLINES/)
+    [ALWFACT - Allowed Factors](https://www.spoj.com/problems/ALWFACT/)
