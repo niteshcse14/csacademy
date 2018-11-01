@@ -58,12 +58,14 @@ Using Dynamic Programming approach with memoization:
 
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
 <img id="imageF" src="http://blog.innovsystems.com/sites/default/files/styles/blog_poster/public/post_image/fibonacci%20series.gif?itok=Z5C0WmIP"
-     style="float: left; margin-right: 10px, disabled: true" />
-```$('#imageF').click(function(e) {
-    e.preventDefault();
-    //do other stuff when a click happens
-});
-```
-Related Problems:
-[Fun With Fibonacci](https://www.devskill.com/CodingProblems/ViewProblem/389)
-[DZY Loves Fibonacci Numbers](http://codeforces.com/problemset/problem/446/C)
+     style="float: left; margin-right: 10px, height: 100px,disabled: true" />
+
+##  Related Problems:
+    [Fun With Fibonacci](https://www.devskill.com/CodingProblems/ViewProblem/389)
+    [DZY Loves Fibonacci Numbers](http://codeforces.com/problemset/problem/446/C)
+    [Weasel does Xor on Tree](https://www.codechef.com/SEPT17/problems/WEASELTX)
+    [Longest Common Subsequence](https://www.codechef.com/problems/TLCS)
+    [Longest Increasing Subsequence](https://codeforces.com/problemset/problem/568/E)
+    [LCIS](https://codeforces.com/problemset/problem/10/D)
+    [LCS Again](https://codeforces.com/problemset/problem/578/D)
+    [Gargari and Permutations](https://codeforces.com/problemset/problem/463/D)
