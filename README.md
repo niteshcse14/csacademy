@@ -55,7 +55,7 @@ Using Dynamic Programming approach with memoization:
     0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
 Fibonacci numbers occur in the sums of "shallow" diagonals in Pascal's triangle
 ![Fibbonaci Series with Pascal Triangle](https://upload.wikimedia.org/wikipedia/commons/b/bf/PascalTriangleFibanacci.svg)
-(https://wikimedia.org/api/rest_v1/media/math/render/svg/3f06a0c8bcfd3a0812af0acb337da8dc85521249)
+!![](https://wikimedia.org/api/rest_v1/media/math/render/svg/3f06a0c8bcfd3a0812af0acb337da8dc85521249)
 
 ##### In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
 
