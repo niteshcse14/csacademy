@@ -52,14 +52,12 @@ Using Dynamic Programming approach with memoization:
 ## Program for Fibonacci numbers
 ### The Fibonacci numbers are the numbers in the following integer sequence.
     0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
-
+Fibonacci numbers occur in the sums of "shallow" diagonals in Pascal's triangle
 ![Fibbonaci Series with Pascal Triangle](https://upload.wikimedia.org/wikipedia/commons/b/bf/PascalTriangleFibanacci.svg)
 
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
-<img id="imageF" src="http://blog.innovsystems.com/sites/default/files/styles/blog_poster/public/post_image/fibonacci%20series.gif?itok=Z5C0WmIP"
-     style="float: left; margin-right: 10px, height: 100px,disabled: true" />
 
-##Related Problems:
+## Related Problems:
 1.  [Fun With Fibonacci devskill](https://www.devskill.com/CodingProblems/ViewProblem/389)
 2.  [DZY Loves Fibonacci Numbers, codeforces, codeforces](http://codeforces.com/problemset/problem/446/C)
 3.  [Weasel does Xor on Tree, codeforces](https://www.C.com/SEPT17/problems/WEASELTX)
